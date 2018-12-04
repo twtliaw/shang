@@ -1,5 +1,5 @@
 {
-"adXishu":"0.66",
+"adXishu":"0.76",
 "QQnumber":"850467163",
 "nPage":"13",
 "isClickAdView":"6000",
