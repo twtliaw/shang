@@ -2,7 +2,6 @@
 "adXishu":"0.7",
 "QQnumber":"850467163",
 "nPage":"10",
-"isClickAdView":"6000",
 "arnum":"5,2000,20000",
 "ADDJX":"4,0.1,1.4",
 "isNKSGS":"1",
